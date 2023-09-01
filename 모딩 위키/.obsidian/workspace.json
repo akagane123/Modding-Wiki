@@ -11,13 +11,28 @@
             "id": "6375be4037ff9f94",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png"
+                "file": "The Last Empire/The Last Empire (모드).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b5a5fcd51a6e609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Last Empire/주요 국가.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png",
+                "file": "The Last Empire/주요 국가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png",
+                "file": "The Last Empire/주요 국가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png"
+                "file": "The Last Empire/주요 국가.md"
               }
             }
           }
@@ -145,12 +160,18 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "6375be4037ff9f94",
+  "active": "2b5a5fcd51a6e609",
   "lastOpenFiles": [
-    "첨부 파일 저장/TLE_Logo.png",
-    "The Last Empire/The Last Empire (모드).md",
+    "첨부 파일 저장/280px-윤형주_TLE_테두리.png",
+    "첨부 파일 저장/280px-시진핑_TLE_테두리.png",
+    "첨부 파일 저장/280px-차이잉원_TLE_테두리.png",
+    "첨부 파일 저장/280px-아베_신조_TLE_테두리.png",
+    "첨부 파일 저장/280px-이인제_TLE_테두리.png",
     "The Last Empire/마지막 제국.md",
+    "The Last Empire/주요 국가.md",
+    "The Last Empire/The Last Empire (모드).md",
     "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png",
+    "첨부 파일 저장/TLE_Logo.png",
     "첨부 파일 저장/100px-Hoi_4.png",
     "첨부 파일 저장/Tle_logo_2.png",
     "첨부 파일 저장",
