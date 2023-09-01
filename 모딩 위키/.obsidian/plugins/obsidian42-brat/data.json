@@ -1,5 +1,7 @@
 {
-  "pluginList": [],
+  "pluginList": [
+    "TfTHacker/obsidian42-brat"
+  ],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": false,
