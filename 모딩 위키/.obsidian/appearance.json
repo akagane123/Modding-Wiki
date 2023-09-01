@@ -1,4 +1,6 @@
 {
   "accentColor": "#e3e3e3",
-  "interfaceFontFamily": "Nanum Myeongjo"
+  "interfaceFontFamily": "Gmarket Sans TTF,Nanum Myeongjo",
+  "theme": "obsidian",
+  "textFontFamily": "Apple SD Gothic Neo"
 }
