@@ -11,8 +11,12 @@
             "id": "6375be4037ff9f94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Last Empire/마지막 제국.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -140,10 +144,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian42-brat:BRAT": false
+      "publish:변경사항 출판": false
     }
   },
-  "active": "82033b94b9a1c1b4",
+  "active": "6375be4037ff9f94",
   "lastOpenFiles": [
     "첨부 파일 저장/100px-Hoi_4.png",
     "The Last Empire/마지막 제국.md",
