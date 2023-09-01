@@ -11,11 +11,9 @@
             "id": "6375be4037ff9f94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Last Empire/마지막 제국.md",
-                "mode": "source",
-                "source": false
+                "file": "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Empire/마지막 제국.md",
+                "file": "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Last Empire/마지막 제국.md",
+                "file": "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Last Empire/마지막 제국.md"
+                "file": "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png"
               }
             }
           }
@@ -149,10 +147,11 @@
   },
   "active": "6375be4037ff9f94",
   "lastOpenFiles": [
-    "첨부 파일 저장/100px-Hoi_4.png",
-    "The Last Empire/마지막 제국.md",
-    "The Last Empire/The Last Empire (모드).md",
     "첨부 파일 저장/TLE_Logo.png",
+    "The Last Empire/The Last Empire (모드).md",
+    "The Last Empire/마지막 제국.md",
+    "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png",
+    "첨부 파일 저장/100px-Hoi_4.png",
     "첨부 파일 저장/Tle_logo_2.png",
     "첨부 파일 저장",
     "The Last Empire"
