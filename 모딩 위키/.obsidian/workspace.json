@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Empire/The Last Empire (모드).md",
+                "file": "The Last Empire/마지막 제국.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Empire/The Last Empire (모드).md",
+                "file": "The Last Empire/마지막 제국.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Last Empire/The Last Empire (모드).md",
+                "file": "The Last Empire/마지막 제국.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Last Empire/The Last Empire (모드).md"
+                "file": "The Last Empire/마지막 제국.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "78e12163f5fe9486",
   "lastOpenFiles": [
-    "The Last Empire/마지막 제국.md",
     "The Last Empire/The Last Empire (모드).md",
+    "The Last Empire/마지막 제국.md",
+    "첨부 파일 저장/100px-Hoi_4.png",
     "첨부 파일 저장/TLE_Logo.png",
     "첨부 파일 저장/Tle_logo_2.png",
     "첨부 파일 저장",

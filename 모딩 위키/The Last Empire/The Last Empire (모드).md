@@ -2,14 +2,6 @@
 banner: "![[Tle_logo_2.png]]"
 banner_y: 0.504
 ---
------
-
-
-
- <big><big><center> ![[TLE_Logo.png|400]]<br>**마지막 제국**<br><small>The Last Empire<small><center> <big> <big>
-
-
------
 
 ###  == 개요 ==
 **The Last Empire**는 [[마지막 제국]]의 세계관을 바탕으로 제작된 Hearts of Iron 4의 모드이다. 2020년 10월 21일 업로드되었다.  
