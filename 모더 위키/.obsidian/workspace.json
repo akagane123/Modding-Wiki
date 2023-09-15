@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b5a5fcd51a6e609",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "824d952876ce6fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "공지/공지 - 모더 분들을 위해.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +157,7 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "82033b94b9a1c1b4",
+  "active": "824d952876ce6fcb",
   "lastOpenFiles": [
     "첨부 파일 저장",
     "공지",
