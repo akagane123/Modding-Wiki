@@ -45,9 +45,9 @@
             "id": "5234570e75c73580",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "첨부 파일 저장/280px-이인제_TLE_테두리.png"
               }
             }
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "첨부 파일 저장/TLE_Logo.png",
+                "file": "첨부 파일 저장/280px-이인제_TLE_테두리.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "첨부 파일 저장/TLE_Logo.png",
+                "file": "첨부 파일 저장/280px-이인제_TLE_테두리.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "첨부 파일 저장/TLE_Logo.png"
+                "file": "첨부 파일 저장/280px-이인제_TLE_테두리.png"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "5234570e75c73580",
   "lastOpenFiles": [
+    "첨부 파일 저장/280px-만주_TLE_테두리.png",
     "첨부 파일 저장/스크린샷 2023-09-01 오후 12.40.17.png",
     "첨부 파일 저장/1920px-TLE_Map_2.jpg",
     "첨부 파일 저장/280px-북양_TLE_테두리.png",
@@ -201,7 +202,6 @@
     "The Last Empire/주요 국가 (TLE).md",
     "The Last Empire/마지막 제국.md",
     "첨부 파일 저장/200px-EOK국장.svg.png",
-    "첨부 파일 저장/280px-만주_TLE_테두리.png",
     "첨부 파일 저장/280px-일본_TLE_테두리.png",
     "첨부 파일 저장/280px-대한_TLE_테두리.png",
     "첨부 파일 저장/280px-윤형주_TLE_테두리.png",
