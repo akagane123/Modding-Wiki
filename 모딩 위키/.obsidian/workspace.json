@@ -161,6 +161,16 @@
                 "file": "첨부 파일 저장/TLE_Logo.png"
               }
             }
+          },
+          {
+            "id": "b33abf294014ac29",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
