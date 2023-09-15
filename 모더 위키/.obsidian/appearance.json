@@ -2,5 +2,6 @@
   "accentColor": "#e3e3e3",
   "interfaceFontFamily": "Noto Sans CJK KR",
   "theme": "obsidian",
-  "textFontFamily": "Apple SD Gothic Neo"
+  "textFontFamily": "Apple SD Gothic Neo",
+  "baseFontSize": 15
 }
